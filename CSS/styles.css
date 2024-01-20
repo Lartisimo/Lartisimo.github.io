@@ -26,6 +26,10 @@ body {
     margin: 0 auto;
 }
 
+.img:hover {
+    transform: scale(1.5);
+}
+
 .Name {
     font-size: 28px;
     font-weight: 500;
@@ -63,4 +67,9 @@ body {
     width: 330px;
     line-height: 24px;
 
+}
+
+.plats:hover {
+    color: black;
+    background-color: yellowgreen;
 }
